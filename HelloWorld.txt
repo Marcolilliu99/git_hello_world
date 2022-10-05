@@ -1,2 +1,1 @@
-Ciao
-return 1
+Ciao return 1
